@@ -1,0 +1,16 @@
+{
+  "name": "Dhikr Counter",
+  "short_name": "Dhikr",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f3d3e",
+  "theme_color": "#0f3d3e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
